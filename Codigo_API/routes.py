@@ -11,11 +11,18 @@ CORS(app)
 @cross_origin("*")
 def buscar():
     if request.get_json():
-
-        buscarUltra = buscaultrafarma(request.get_json())
-        buscarPacheco = busca(request.get_json())
-        buscarRaia = buscadrogaraia(request.get_json())
-        return ("\n" + "{\n\n" + "Pacheco\n" + buscarPacheco +"\n\n" + "Ultrafarma\n" + buscarUltra + "\n" + "Drogaraia\n" + buscarRaia + "\n}"  )
+        resp = request.get_json()
+        resp = str(resp)
+        resp = resp.replace("Nome do Medicamento", "")
+        resp = resp.replace(":", "")
+        resp = resp.replace("\'", "")
+        resp = resp.replace("{", "")
+        resp = resp.replace("}", "")
+        resp = resp.strip()
+        buscarUltra = buscaultrafarma(resp)
+        buscarPacheco = busca(resp)
+        buscarRaia = buscadrogaraia(resp)
+        return ("\n" + "{\n\n" + "Pacheco\n" + buscarPacheco + "\n\n" + "Ultrafarma\n" + buscarUltra + "\n" + "Drogaraia\n" + buscarRaia + "\n}"  )
     else:
         return {"Erro": "Um Nome Deve Ser Pesquisado"}
 
@@ -34,16 +41,26 @@ class documentation(Resource):
     @api.expect(template)
     def post(self, ):
         if request.get_json():
-
-            buscarPacheco = busca(request.get_json())
-            buscarUltra = buscaultrafarma(request.get_json())
-            buscarRaia = buscadrogaraia(request.get_json())
+            resp = request.get_json()
+            resp = str(resp)
+            resp = resp.replace("Nome do Medicamento", "")
+            resp = resp.replace(":", "")
+            resp = resp.replace("\'", "")
+            resp = resp.replace("{", "")
+            resp = resp.replace("}", "")
+            resp = resp.strip()
+            buscarPacheco = busca(resp)
+            buscarUltra = buscaultrafarma(resp)
+            buscarRaia = buscadrogaraia(resp)
 
             return ("\n" + "{\n\n" + "Pacheco\n" + buscarPacheco + "\n\n" + "Ultrafarma\n" + buscarUltra + "\n" + "Drogaraia\n" + buscarRaia + "\n}" )
+
         else:
             return {"Erro": "Um Nome Deve Ser Pesquisado"}
     
-    
+
+
+
     
     
     

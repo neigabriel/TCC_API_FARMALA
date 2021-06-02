@@ -4793,3 +4793,326 @@ JavaScript error: https://www.anossadrogaria.com.br/arquivos/InformacaoFrete.js?
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1622588930174	geckodriver	INFO	Listening on 127.0.0.1:56842
+1622588933201	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\GABRIEL\\AppData\\Local\\Temp\\rust_mozprofilej9ReSo"
+*** You are running in headless mode.
+1622588933543	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622588934491	Marionette	INFO	Listening on port 56866
+1622588934735	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:56993
+1622588943825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\GABRIEL\\AppData\\Local\\Temp\\rust_mozprofilecLQZCX"
+*** You are running in headless mode.
+1622588944202	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622588945191	Marionette	INFO	Listening on port 57016
+1622588945362	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://io.vtex.com.br/rc/rc.js?v=1.4.1784.2339, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://io.vtex.com.br/rc/rc.js?v=1.4.1784.2339, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1622588956859	Marionette	INFO	Stopped listening on port 57016
+1622588957616	geckodriver	INFO	Listening on 127.0.0.1:57201
+1622588960631	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\GABRIEL\\AppData\\Local\\Temp\\rust_mozprofilerkGWG2"
+*** You are running in headless mode.
+1622588960911	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622588962255	Marionette	INFO	Listening on port 57227
+1622588962700	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://j2.drogaraia.com.br/js/lib/jquery/jquery-1.10.2.min.js?cache=MDcvMDUvMjAyMS0wNTowNw==, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://busca.drogaraia.com.br/search?w=sabonete, line 563: ReferenceError: R3_COMMON is not defined
+JavaScript warning: https://assets.resultspage.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://j2.drogaraia.com.br/js/prototype/prototype.js?cache=MDcvMDUvMjAyMS0wNTowNw==, line 5575: TypeError: handler is undefined
+JavaScript error: https://j2.drogaraia.com.br/js/raiadrogasil/historicodebusca/index.js?cache=MDcvMDUvMjAyMS0wNTowNw==, line 136: TypeError: self.moduleContent is null
+JavaScript warning: https://resources-rt-n.idx.lat/T2.min.js, line 32: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://j2.drogaraia.com.br/js/raiadrogasil/assinatura/CreditCardGetNetValidation.js?cache=MjAyMS0wNS0yMSAwODowNzo1OC0wMDo1NA==, line 1: ReferenceError: Class is not defined
+JavaScript error: https://j2.drogaraia.com.br/js/raiadrogasil/validation/validation.js?cache=MjAyMS0wNS0yMSAwODowNzo1OC0wMDo1NA==, line 1: ReferenceError: Validation is not defined
+JavaScript error: https://j2.drogaraia.com.br/js/raiadrogasil/historicodebusca/index.js?cache=MjAyMS0wNS0yMSAwODowNzo1OC0wMDo1NA==, line 136: TypeError: self.moduleContent is null
+JavaScript error: https://s2.drogaraia.com.br/skin/frontend/drogaraia/default/js/main/mainJsRaiaDeskPdpHead-min.js?cache=MjAyMS0wNS0yMSAwODowNzo1OC0wMDo1NA==, line 1: TypeError: handler is undefined
+JavaScript warning: https://resources-rt-n.idx.lat/T2.min.js, line 32: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1622589036500	Marionette	INFO	Stopped listening on port 57227
+1622589292711	geckodriver	INFO	Listening on 127.0.0.1:58773
+1622589295797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\GABRIEL\\AppData\\Local\\Temp\\rust_mozprofilebDBkRR"
+*** You are running in headless mode.
+1622589296134	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622589297040	Marionette	INFO	Listening on port 58786
+1622589297383	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: https://www.youtube.com/s/player/0b643cd1/www-embed-player.vflset/www-embed-player.js, line 527: NS_ERROR_FAILURE: 
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:59104
+1622589347580	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\GABRIEL\\AppData\\Local\\Temp\\rust_mozprofile6LfZpv"
+*** You are running in headless mode.
+1622589347853	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622589348689	Marionette	INFO	Listening on port 59132
+1622589349114	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:60046
+1622589485411	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\GABRIEL\\AppData\\Local\\Temp\\rust_mozprofile3wzfCE"
+*** You are running in headless mode.
+1622589485720	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622589486635	Marionette	INFO	Listening on port 60067
+1622589486959	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1622592665517	geckodriver	INFO	Listening on 127.0.0.1:55776
+1622592668564	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\GABRIEL\\AppData\\Local\\Temp\\rust_mozprofile7TylPq"
+*** You are running in headless mode.
+1622592668904	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622592669806	Marionette	INFO	Listening on port 55795
+1622592670103	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1622594779167	geckodriver	INFO	Listening on 127.0.0.1:62327
+1622594782233	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\GABRIEL\\AppData\\Local\\Temp\\rust_mozprofilerwTMc3"
+*** You are running in headless mode.
+1622594782552	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622594783487	Marionette	INFO	Listening on port 62341
+1622594783788	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1622644021974	geckodriver	INFO	Listening on 127.0.0.1:53079
+1622644025002	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\GABRIEL\\AppData\\Local\\Temp\\rust_mozprofileUTnXJt"
+*** You are running in headless mode.
+1622644025474	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622644026322	Marionette	INFO	Listening on port 53098
+1622644026542	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://io.vtex.com.br/rc/rc.js?v=1.4.1784.2339, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://io.vtex.com.br/rc/rc.js?v=1.4.1784.2339, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://drogariaspacheco.vteximg.com.br/scripts/vtex.ajax.wait.js?v=1.4.1784.2339, line 1: ReferenceError: $ is not defined
+JavaScript error: https://drogariaspacheco.vteximg.com.br/scripts/vtex.common.js?v=1.4.1784.2339, line 86: ReferenceError: $ is not defined
+JavaScript error: https://drogariaspacheco.vteximg.com.br/scripts/currency-format.min.js?v=1.4.1784.2339, line 1: ReferenceError: vtex is not defined
+JavaScript error: https://drogariaspacheco.vteximg.com.br/scripts/jquery.jqzoom-core.js?v=1.4.1784.2339, line 733: ReferenceError: jQuery is not defined
+JavaScript error: https://drogariaspacheco.vteximg.com.br/scripts/vtex.cookie.js?v=1.4.1784.2339, line 2: ReferenceError: $ is not defined
+JavaScript error: https://drogariaspacheco.vteximg.com.br/scripts/jquery.pager.js?v=1.4.1784.2339, line 156: ReferenceError: jQuery is not defined
+JavaScript error: https://www.drogariaspacheco.com.br/cimegripe-400mg-cimed-20-capsulas/p, line 45: ReferenceError: vtex is not defined
+JavaScript error: https://drogariaspacheco.vteximg.com.br/scripts/vtex.tagmanager.helper.js?v=1.4.1784.2339, line 126: ReferenceError: vtex is not defined
+JavaScript error: https://www.drogariaspacheco.com.br/cimegripe-400mg-cimed-20-capsulas/p, line 61: ReferenceError: CATALOG_SDK is not defined
+JavaScript error: https://www.drogariaspacheco.com.br/cimegripe-400mg-cimed-20-capsulas/p, line 69: ReferenceError: $ is not defined
+JavaScript error: https://www.drogariaspacheco.com.br/cimegripe-400mg-cimed-20-capsulas/p, line 173: ReferenceError: $ is not defined
+JavaScript error: https://www.drogariaspacheco.com.br/cimegripe-400mg-cimed-20-capsulas/p, line 173: ReferenceError: $ is not defined
+JavaScript error: https://www.drogariaspacheco.com.br/cimegripe-400mg-cimed-20-capsulas/p, line 174: ReferenceError: $ is not defined
+JavaScript error: https://www.drogariaspacheco.com.br/cimegripe-400mg-cimed-20-capsulas/p, line 183: ReferenceError: $ is not defined
+JavaScript error: https://www.drogariaspacheco.com.br/cimegripe-400mg-cimed-20-capsulas/p, line 183: ReferenceError: $ is not defined
+JavaScript error: https://www.drogariaspacheco.com.br/cimegripe-400mg-cimed-20-capsulas/p, line 184: ReferenceError: $ is not defined
+JavaScript error: https://www.drogariaspacheco.com.br/cimegripe-400mg-cimed-20-capsulas/p line 2332 > injectedScript, line 1: ReferenceError: $ is not defined
+JavaScript error: https://www.drogariaspacheco.com.br/arquivos/bootstrap-3.0.0.min.js?v=637218659340170000, line 6: ReferenceError: jQuery is not defined
+JavaScript error: https://www.drogariaspacheco.com.br/cimegripe-400mg-cimed-20-capsulas/p, line 917: ReferenceError: vtexid is not defined
+JavaScript error: https://www.drogariaspacheco.com.br/arquivos/rnk-pacheco-script-menu-aim.js?v=637353509795700000, line 322: ReferenceError: jQuery is not defined
+JavaScript error: https://www.drogariaspacheco.com.br/arquivos/rnk-pacheco-jquery.countdown.min-v2.js?v=637315679666600000, line 22: ReferenceError: jQuery is not defined
+JavaScript error: https://www.drogariaspacheco.com.br/arquivos/rnk-pacheco-script-rankme.min.js?v=202106021010, line 1: ReferenceError: $ is not defined
+JavaScript error: https://www.drogariaspacheco.com.br/arquivos/rnk-pacheco-script-chaordic.min.js?v=202104051132, line 1: ReferenceError: $ is not defined
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.16/jquery.mask.min.js, line 15: TypeError: a is undefined
+JavaScript error: https://www.drogariaspacheco.com.br/arquivos/rnk-pacheco-script-lgpd.min.js?v=202104091619, line 1: ReferenceError: $ is not defined
+JavaScript error: https://www.drogariaspacheco.com.br/arquivos/rnk-pacheco-script-login-rankme.js?v=202106021010, line 8: ReferenceError: $ is not defined
+JavaScript error: https://www.drogariaspacheco.com.br/arquivos/recebaemcasa.jquery.mask.min.js?v=636893907202700000, line 1: TypeError: o is undefined
+JavaScript error: https://www.drogariaspacheco.com.br/arquivos/rnk-pacheco-script-produto-rankme.min.js?v=202105071355, line 1: ReferenceError: $ is not defined
+JavaScript error: https://www.drogariaspacheco.com.br/arquivos/rnk-pacheco-script-chaordic-recommend.min.js?v=202105051343, line 1: ReferenceError: $ is not defined
+JavaScript error: https://www.drogariaspacheco.com.br/arquivos/rnk-pacheco-script-beneficio-produto-rankme.min.js?v=202106021010, line 1: ReferenceError: $ is not defined
+JavaScript error: https://www.drogariaspacheco.com.br/arquivos/rnk-pacheco-script-beneficio-rankme.min.js?v=202106021010, line 1: ReferenceError: $ is not defined
+JavaScript error: https://drogariaspacheco.vteximg.com.br/scripts/track.js?v=1.4.1784.2339, line 21: ReferenceError: $ is not defined
+JavaScript error: https://drogariaspacheco.vteximg.com.br/scripts/thickbox.js?v=1.4.1784.2339, line 11: ReferenceError: $ is not defined
+JavaScript error: https://drogariaspacheco.vteximg.com.br/scripts/vtex.viewpart.callcenterdisclaimer.js?v=1.4.1784.2339, line 5: ReferenceError: $ is not defined
+JavaScript error: https://drogariaspacheco.vteximg.com.br/scripts/vtex.viewpart.ajaxloader_v2.js?v=1.4.1784.2339, line 1: ReferenceError: $ is not defined
+JavaScript error: https://drogariaspacheco.vteximg.com.br/scripts/vtex.viewpart.skureference.js?v=1.4.1784.2339, line 6: ReferenceError: $ is not defined
+JavaScript error: https://drogariaspacheco.vteximg.com.br/scripts/vtex.viewpart.imagecontrol3.js?v=1.4.1784.2339, line 6: ReferenceError: $ is not defined
+JavaScript error: https://drogariaspacheco.vteximg.com.br/scripts/vtex.viewpart.sellerdescription.js?v=1.4.1784.2339, line 7: ReferenceError: $ is not defined
+JavaScript error: https://drogariaspacheco.vteximg.com.br/scripts/vtex.commerce.batchbuy.js?v=1.4.1784.2339, line 13: ReferenceError: $ is not defined
+JavaScript error: https://drogariaspacheco.vteximg.com.br/scripts/jquery.livequery.min.js?v=1.4.1784.2339, line 9: ReferenceError: jQuery is not defined
+JavaScript error: https://drogariaspacheco.vteximg.com.br/scripts/prettyphoto/js/jquery.prettyphoto.js?v=1.4.1784.2339, line 810: ReferenceError: jQuery is not defined
+JavaScript error: https://drogariaspacheco.vteximg.com.br/scripts/prettyphoto/js/lean-prettyphoto.js?v=1.4.1784.2339, line 1: ReferenceError: $ is not defined
+JavaScript error: https://drogariaspacheco.vteximg.com.br/scripts/vtex.commerce.compare.js?v=1.4.1784.2339, line 25: ReferenceError: $ is not defined
+JavaScript error: https://static.online.pro.br/common/vtex-lgpd-cookie/vtex-masterdata.js, line 1: ReferenceError: $ is not defined
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:55542
+1622644569137	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\GABRIEL\\AppData\\Local\\Temp\\rust_mozprofilerrRGqS"
+*** You are running in headless mode.
+1622644569460	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622644570394	Marionette	INFO	Listening on port 55558
+1622644570683	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:56165
+1622644668833	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\GABRIEL\\AppData\\Local\\Temp\\rust_mozprofilelBTjoO"
+*** You are running in headless mode.
+1622644669164	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622644670063	Marionette	INFO	Listening on port 56178
+1622644670370	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:56470
+1622644713913	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\GABRIEL\\AppData\\Local\\Temp\\rust_mozprofileLQrA4F"
+*** You are running in headless mode.
+1622644714239	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622644715052	Marionette	INFO	Listening on port 56495
+1622644715464	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:56808
+1622644756436	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\GABRIEL\\AppData\\Local\\Temp\\rust_mozprofileuUONDM"
+*** You are running in headless mode.
+1622644756687	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622644757589	Marionette	INFO	Listening on port 56826
+1622644757974	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:57639
+1622644913852	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\GABRIEL\\AppData\\Local\\Temp\\rust_mozprofilea0DzVJ"
+*** You are running in headless mode.
+1622644914177	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622644915051	Marionette	INFO	Listening on port 57661
+1622644915387	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://io.vtex.com.br/rc/rc.js?v=1.4.1784.2339, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://io.vtex.com.br/rc/rc.js?v=1.4.1784.2339, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1622644925238	Marionette	INFO	Stopped listening on port 57661
+1622647484010	geckodriver	INFO	Listening on 127.0.0.1:63117
+1622647487085	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\GABRIEL\\AppData\\Local\\Temp\\rust_mozprofileySoHa2"
+*** You are running in headless mode.
+1622647487397	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622647488259	Marionette	INFO	Listening on port 63132
+1622647488624	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript error: https://events.chaordicsystems.com/static/postmediator, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 2 of the JSON data
+JavaScript warning: https://d2h3yh691x1n17.cloudfront.net/js/jquery-1.10.2.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1622647499328	geckodriver	INFO	Listening on 127.0.0.1:63323
+1622647502555	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\GABRIEL\\AppData\\Local\\Temp\\rust_mozprofileqhLE1s"
+*** You are running in headless mode.
+1622647502914	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622647503780	Marionette	INFO	Listening on port 63348
+1622647504100	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://io.vtex.com.br/rc/rc.js?v=1.4.1784.2339, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://io.vtex.com.br/rc/rc.js?v=1.4.1784.2339, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.9.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/fingerprintjs2/2.1.0/fingerprint2.min.js, line 1: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1622647514281	Marionette	INFO	Stopped listening on port 63348
+1622647515062	geckodriver	INFO	Listening on 127.0.0.1:63504
+1622647518085	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\GABRIEL\\AppData\\Local\\Temp\\rust_mozprofile0EMWAs"
+*** You are running in headless mode.
+1622647518583	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622647519694	Marionette	INFO	Listening on port 63534
+1622647520152	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://j2.drogaraia.com.br/js/lib/jquery/jquery-1.10.2.min.js?cache=MDcvMDUvMjAyMS0wNTowNw==, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://busca.drogaraia.com.br/search?w=vick, line 563: ReferenceError: R3_COMMON is not defined
+JavaScript warning: https://assets.resultspage.com/js/jquery-1.9.1.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://j2.drogaraia.com.br/js/prototype/prototype.js?cache=MDcvMDUvMjAyMS0wNTowNw==, line 5575: TypeError: handler is undefined
+JavaScript error: https://j2.drogaraia.com.br/js/raiadrogasil/historicodebusca/index.js?cache=MDcvMDUvMjAyMS0wNTowNw==, line 136: TypeError: self.moduleContent is null
+JavaScript warning: https://resources-rt-n.idx.lat/T2.min.js, line 32: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).

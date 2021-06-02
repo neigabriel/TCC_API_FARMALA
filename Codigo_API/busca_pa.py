@@ -6,8 +6,6 @@ import sqlite3
 import time
 
 
-
-
 def busca(param):
     conn = sqlite3.connect('Farmala_api.db')
     cur = conn.cursor()
