@@ -5,36 +5,30 @@ import sqlite3
 import requests
 
 def buscaultrafarma(param, number):
-    pesquisa = param.lower()
-    url = "https://www.ultrafarma.com.br/busca?q="
-    number = int(number)
-    url = url + pesquisa
+    try:
+        pesquisa = param.lower()
+        url = "https://www.ultrafarma.com.br/busca?q="
+        number = int(number)
+        url = url + pesquisa
 
-    conn = sqlite3.connect('Farmala_api.db')
-    cur = conn.cursor()
-    cur.execute("Select url from Medicamentos_Ultrafarma where nmMedicamento = ?", (pesquisa,))
-    resultado = cur.fetchall()
-    result1 = False
-    for row in resultado:
-        result = str(row[0])
-        result1 = result
-    conn.commit()
+        conn = sqlite3.connect('Farmala_api.db')
+        cur = conn.cursor()
+        cur.execute("Select url from Medicamentos_Ultrafarma where nmMedicamento = ?", (pesquisa,))
+        resultado = cur.fetchall()
+        result1 = False
+        for row in resultado:
+            result = str(row[0])
+            result1 = result
+        conn.commit()
 
-    if not result1 or number > 1:
-        try:
+        if not result1 or number > 1:
+
             option = Options()
             option.headless = True
             driver = webdriver.Chrome(options=option)
             driver.get(url)
-        except:
-            retorn = ("Ultrafarma"
-                      "Problema na inicialização do Selenium para varios medicamentos."
-                      "Provalvelmente entre as linhas 96 à 99")
-            arquivo = open('resultadoultra.txt', 'w')
-            arquivo.write(retorn)
-            arquivo.close()
-            return 0
-        try:
+
+
             elem = driver.find_element_by_xpath('/html/body/div[1]/section[1]/div/div/div[4]/div/div/div/div/div')
             source_code = elem.get_attribute("outerHTML")
             soup = BeautifulSoup(source_code, "html.parser")
@@ -83,28 +77,29 @@ def buscaultrafarma(param, number):
             arquivo.close()
             return 0
 
-        except:
-            retorn = ("A Drograria Ultrafarma não possui esse medicamento")
+
+
+        else:
+            headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"}
+
+            site = requests.get(result1, headers=headers)
+
+            soup = BeautifulSoup(site.content, "html.parser")
+            nome = soup.find('h1', class_="product-name").get_text().strip()
+            preco = soup.find('p', class_="product-price-new", ).get_text().strip()
+            linkcom = result1
+            retorno = ("{\"nome\"" ":" + "\"" + nome + "\"" + "\n" + "\"preco\"" ":" + "\"" + preco + "\"" + "\n" + "\"Link\"" ":" + "\"" + linkcom + "\"}")
             arquivo = open('resultadoultra.txt', 'w')
-            arquivo.write(retorn)
+            arquivo.write(retorno)
             arquivo.close()
-            driver.quit()
             return 0
-
-    else:
-        headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"}
-
-        site = requests.get(result1, headers=headers)
-
-        soup = BeautifulSoup(site.content, "html.parser")
-        nome = soup.find('h1', class_="product-name").get_text().strip()
-        preco = soup.find('p', class_="product-price-new", ).get_text().strip()
-        linkcom = result1
-        retorno = ("{\"nome\"" ":" + "\"" + nome + "\"" + "\n" + "\"preco\"" ":" + "\"" + preco + "\"" + "\n" + "\"Link\"" ":" + "\"" + linkcom + "\"}")
+    except:
+        retorn = ("\n\nProblemas na Ultrafarma ou não possui o medicamento\n\n" )
         arquivo = open('resultadoultra.txt', 'w')
-        arquivo.write(retorno)
+        arquivo.write(retorn)
         arquivo.close()
         return 0
+
 
 
 

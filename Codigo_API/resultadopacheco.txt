@@ -21,7 +21,7 @@
   
 'Farmacia': 'Pacheco'
  'nome': 'Paracetamol 750mg Genérico Cimed 20 Comprimidos'
- 'preco': 'R$ 11.24'
+ 'preco': 'R$ 22.41'
  'Link': 'www.drogariaspacheco.com.br/paracetamol-750mg-generico-cimed-20-comprimidos/p'
   
 'Farmacia': 'Pacheco'
@@ -36,7 +36,7 @@
   
 'Farmacia': 'Pacheco'
  'nome': 'Paracetamol 200mg/Ml Genérico Cimed Gotas'
- 'preco': 'R$ 9.69'
+ 'preco': 'R$ 11.19'
  'Link': 'www.drogariaspacheco.com.br/paracetamol-200mgml-gotas-15ml-g-cimed/p'
   
 'Farmacia': 'Pacheco'

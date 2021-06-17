@@ -30,6 +30,7 @@ def buscar():
         quant_ultra = resp["Quantidade UltraFarma(Ignore para quantidade geral ou Maximo 15)"]
         quant_raia = resp["Quantidade Drogaraia(Ignore para quantidade geral ou Maximo 15)"]
         test = resp['Digite 1 para efetuar o auto teste o ignore para executar normalmente']
+
         try:
             test = int(test)
         except:

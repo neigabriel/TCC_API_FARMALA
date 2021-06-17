@@ -5,27 +5,28 @@ import sqlite3
 import requests
 
 def busca(param, number):
-    number = int(number)
-    pesq = param.lower()
-    url = "https://www.drogariaspacheco.com.br/pesquisa?q="
-    url = url + pesq
+    try:
+        number = int(number)
+        pesq = param.lower()
+        url = "https://www.drogariaspacheco.com.br/pesquisa?q="
+        url = url + pesq
 
-    conn = sqlite3.connect('Farmala_api.db')
-    cur = conn.cursor()
-    cur.execute("Select URL from Medicamentos_pacheco where Nome_medicamento = ?", (pesq,))
-    resultado = cur.fetchall()
-    result1 = False
-    for row in resultado:
-        result = str(row[0])
-        result1 = result
-    conn.commit()
+        conn = sqlite3.connect('Farmala_api.db')
+        cur = conn.cursor()
+        cur.execute("Select URL from Medicamentos_pacheco where Nome_medicamento = ?", (pesq,))
+        resultado = cur.fetchall()
+        result1 = False
+        for row in resultado:
+            result = str(row[0])
+            result1 = result
+        conn.commit()
 
-    if not result1 or number > 1:
-        option = Options()
-        option.headless = True
-        driver = webdriver.Chrome(options=option)
-        driver.get(url)
-        try:
+        if not result1 or number > 1:
+            option = Options()
+            option.headless = True
+            driver = webdriver.Chrome(options=option)
+            driver.get(url)
+
             elem = driver.find_element_by_xpath('/html/body/main/div[4]/div/div/div/div[2]/div[1]/ul')
             source_code = elem.get_attribute("outerHTML")
             soup = BeautifulSoup(source_code, "html.parser")
@@ -77,24 +78,24 @@ def busca(param, number):
             arquivo.close()
             driver.quit()
             return 0
-        except:
+        else:
+            headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"}
+
+            site = requests.get(result1, headers=headers)
+
+            soup = BeautifulSoup(site.content, "html.parser")
+            nome = soup.find('h1').get_text()
+            preco = soup.find('strong', class_="skuBestPrice").get_text().strip()
+            linkcom = result1
+            retorno = ("{\"nome\"" ":" + "\"" + nome + "\"" + "\n" + "\"preco\"" ":" + "\"" + preco + "\"" + "\n" + "\"Link\"" ":" + "\"" + linkcom + "\"}")
             arquivo = open('resultadopacheco.txt', 'w')
-            arquivo.write("A Drograria Pacheco não possui esse medicamento")
+            arquivo.write(retorno)
             arquivo.close()
-            driver.quit()
-            return  0
-
-
-    else:
-        headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"}
-
-        site = requests.get(result1, headers=headers)
-
-        soup = BeautifulSoup(site.content, "html.parser")
-        nome = soup.find('h1').get_text()
-        preco = soup.find('strong', class_="skuBestPrice").get_text().strip()
-        linkcom = result1
-        retorno = ({"\"nome\"" ":" + "\"" + nome + "\"" + "\n" + "\"preco\"" ":" + "\"" + preco + "\"" + "\n" + "\"Link\"" ":" + "\"" + linkcom + "\"" "\n"})
-        return retorno
+            return 0
+    except:
+        arquivo = open('resultadopacheco.txt', 'w')
+        arquivo.write("\n\nproblemas na pacheco ou  não possui esse medicamento\n\n")
+        arquivo.close()
+        return 0
 
 

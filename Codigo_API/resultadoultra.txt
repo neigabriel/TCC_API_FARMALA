@@ -39,6 +39,11 @@
  'Link': 'https://www.ultrafarma.com.br/paracetamol-200mgml-gotas-15ml-teuto-generico'
   
 'Farmacia': 'Ultrafarma'
+ 'nome': 'PARACETAMOL 200MG/ML GOTAS 15ML - MEDLEY - GENÉRICO'
+ 'preco': 'R$5.78'
+ 'Link': 'https://www.ultrafarma.com.br/paracetamol-200mgml-gotas-com-15-ml-medley-generico'
+  
+'Farmacia': 'Ultrafarma'
  'nome': 'PARACETAMOL 750MG 20 COMPRIMIDOS - CIMED - GENÉRICO'
  'preco': 'R$7.66'
  'Link': 'https://www.ultrafarma.com.br/paracetamol-750mg-20-comprimidos-cimed-generico'
@@ -66,9 +71,4 @@
 'Farmacia': 'Ultrafarma'
  'nome': 'PARACETAMOL + CLORFENIRAMINA+FENILEFRINA - CIMEGRIPE 20 CÁPSULAS '
  'preco': 'R$5.99'
- 'Link': 'https://www.ultrafarma.com.br/paracetamol-clorfeniraminafenilefrina-cimegripe-20-capsulas'
-  
-'Farmacia': 'Ultrafarma'
- 'nome': 'PARACETAMOL+CAFEÍNA - SONRIDOR CAF 4 COMPRIMIDOS EFERVESCENTES'
- 'preco': 'R$7.44'
- 'Link': 'https://www.ultrafarma.com.br/sonridor-caf-com-4-comprimidos-efervescentes'}
+ 'Link': 'https://www.ultrafarma.com.br/paracetamol-clorfeniraminafenilefrina-cimegripe-20-capsulas'}
