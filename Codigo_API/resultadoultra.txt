@@ -1,0 +1,74 @@
+{'Farmacia': 'Ultrafarma'
+ 'nome': 'PARACETAMOL 750MG 20 COMPRIMIDOS - UNIÃO QUÍMICA - GENÉRICO'
+ 'preco': 'R$4.99'
+ 'Link': 'https://www.ultrafarma.com.br/paracetamol-750mg-20-comprimidos-uniao-quimica-generico'
+  
+'Farmacia': 'Ultrafarma'
+ 'nome': 'PARACETAMOL 750MG 20 COMPRIMIDOS - PRATI DONADUZZI - GENÉRICO'
+ 'preco': 'R$4.95'
+ 'Link': 'https://www.ultrafarma.com.br/paracetamol-750mg-20-comprimidos-prati-donaduzzi-generico'
+  
+'Farmacia': 'Ultrafarma'
+ 'nome': 'PARACETAMOL - TYLEMAX GOTAS 15ML'
+ 'preco': 'R$1.99'
+ 'Link': 'https://www.ultrafarma.com.br/paracetamol-tylemax-gotas-15ml'
+  
+'Farmacia': 'Ultrafarma'
+ 'nome': 'PARACETAMOL 500MG 20 COMPRIMIDOS - PRATI DONADUZZI - GENÉRICO'
+ 'preco': 'R$7.45'
+ 'Link': 'https://www.ultrafarma.com.br/paracetamol-500-mg-com-20-comprimidos-prati-donaduzzi-generico'
+  
+'Farmacia': 'Ultrafarma'
+ 'nome': 'PARACETAMOL 750MG 4 COMPRIMIDOS - EMS - GENÉRICO'
+ 'preco': 'R$1.79'
+ 'Link': 'https://www.ultrafarma.com.br/paracetamol-750-mg-com-4-comprimidos-ems-generico'
+  
+'Farmacia': 'Ultrafarma'
+ 'nome': 'PARACETAMOL 750MG 20 COMPRIMIDOS - MEDLEY - GENÉRICO'
+ 'preco': 'R$10.03'
+ 'Link': 'https://www.ultrafarma.com.br/paracetamol-750-mg-com-20-comprimidos-medley-generico'
+  
+'Farmacia': 'Ultrafarma'
+ 'nome': 'PARACETAMOL - TYLEMAX CRIANÇA LÍQUIDO 60ML '
+ 'preco': 'R$6.13'
+ 'Link': 'https://www.ultrafarma.com.br/paracetamol-tylemax-crianca-liquido-com-60-ml-acima-de-3-anos-de-idade'
+  
+'Farmacia': 'Ultrafarma'
+ 'nome': 'PARACETAMOL 200MG/ML GOTAS 15ML - TEUTO - GENÉRICO'
+ 'preco': 'R$4.30'
+ 'Link': 'https://www.ultrafarma.com.br/paracetamol-200mgml-gotas-15ml-teuto-generico'
+  
+'Farmacia': 'Ultrafarma'
+ 'nome': 'PARACETAMOL 750MG 20 COMPRIMIDOS - CIMED - GENÉRICO'
+ 'preco': 'R$7.66'
+ 'Link': 'https://www.ultrafarma.com.br/paracetamol-750mg-20-comprimidos-cimed-generico'
+  
+'Farmacia': 'Ultrafarma'
+ 'nome': 'PARACETAMOL - TYLENOL 750MG 4 COMPRIMIDOS'
+ 'preco': 'R$6.92'
+ 'Link': 'https://www.ultrafarma.com.br/tylenol-750-mg-com-4-comprimidos'
+  
+'Farmacia': 'Ultrafarma'
+ 'nome': 'PARACETAMOL - TYLEMAX BEBÊ GOTAS COM 15ML '
+ 'preco': 'R$6.53'
+ 'Link': 'https://www.ultrafarma.com.br/paracetamol-tylemax-bebe-gotas-com-15-ml-ate-3-anos-de-idade'
+  
+'Farmacia': 'Ultrafarma'
+ 'nome': 'PARACETAMOL GOTAS 15ML - UNIÃO QUÍMICA - GENÉRICO'
+ 'preco': 'R$3.48'
+ 'Link': 'https://www.ultrafarma.com.br/paracetamol-gotas-15ml-uniao-quimica-generico'
+  
+'Farmacia': 'Ultrafarma'
+ 'nome': 'PARACETAMOL - ABIDOR 200MG 15ML '
+ 'preco': 'R$2.40'
+ 'Link': 'https://www.ultrafarma.com.br/paracetamol-abidor-200mg-15ml'
+  
+'Farmacia': 'Ultrafarma'
+ 'nome': 'PARACETAMOL + CLORFENIRAMINA+FENILEFRINA - CIMEGRIPE 20 CÁPSULAS '
+ 'preco': 'R$5.99'
+ 'Link': 'https://www.ultrafarma.com.br/paracetamol-clorfeniraminafenilefrina-cimegripe-20-capsulas'
+  
+'Farmacia': 'Ultrafarma'
+ 'nome': 'PARACETAMOL+CAFEÍNA - SONRIDOR CAF 4 COMPRIMIDOS EFERVESCENTES'
+ 'preco': 'R$7.44'
+ 'Link': 'https://www.ultrafarma.com.br/sonridor-caf-com-4-comprimidos-efervescentes'}

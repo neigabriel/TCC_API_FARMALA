@@ -1,0 +1,75 @@
+{ 
+'Farmacia': 'Pacheco'
+ 'nome': 'Paracetamol 750mg Genérico 4 Comprimidos'
+ 'preco': 'R$ 1.74'
+ 'Link': 'www.drogariaspacheco.com.br/paracetamol-750mg-generico-4-comprimidos/p'
+  
+'Farmacia': 'Pacheco'
+ 'nome': 'Paracetamol 750mg 20 comprimidos genérico'
+ 'preco': 'R$ 14.04'
+ 'Link': 'www.drogariaspacheco.com.br/paracetamol-750mg-20-comprimidos-generico/p'
+  
+'Farmacia': 'Pacheco'
+ 'nome': 'Paracetamol 500mg Genérico EMS 4 Comprimidos'
+ 'preco': 'R$ 2.09'
+ 'Link': 'www.drogariaspacheco.com.br/paracetamol-500mg-generico-ems-4-comprimidos/p'
+  
+'Farmacia': 'Pacheco'
+ 'nome': 'Paracetamol 220mg/ml Genérico Medley Gotas  15ml'
+ 'preco': 'R$ 6.28'
+ 'Link': 'www.drogariaspacheco.com.br/paracetamol-220mgml-generico-medley-gotas-15ml/p'
+  
+'Farmacia': 'Pacheco'
+ 'nome': 'Paracetamol 750mg Genérico Cimed 20 Comprimidos'
+ 'preco': 'R$ 11.24'
+ 'Link': 'www.drogariaspacheco.com.br/paracetamol-750mg-generico-cimed-20-comprimidos/p'
+  
+'Farmacia': 'Pacheco'
+ 'nome': 'Paracetamol + Cafeína Genérico EMS 20 Comprimidos Revestidos'
+ 'preco': 'R$ 17.29'
+ 'Link': 'www.drogariaspacheco.com.br/paracetamol-cafeina-generico-ems-20-comprimidos-revestidos/p'
+  
+'Farmacia': 'Pacheco'
+ 'nome': 'Paracetamol Limão/ Mel 500mg Genérico EMS 5g'
+ 'preco': 'R$ 1.59'
+ 'Link': 'www.drogariaspacheco.com.br/paracetamol-limao-mel-500mg-generico-ems-5g/p'
+  
+'Farmacia': 'Pacheco'
+ 'nome': 'Paracetamol 200mg/Ml Genérico Cimed Gotas'
+ 'preco': 'R$ 9.69'
+ 'Link': 'www.drogariaspacheco.com.br/paracetamol-200mgml-gotas-15ml-g-cimed/p'
+  
+'Farmacia': 'Pacheco'
+ 'nome': 'Paracetamol 750mg Genérico Cimed 4 Comprimidos'
+ 'preco': 'R$ 1.85'
+ 'Link': 'www.drogariaspacheco.com.br/paracetamol-750mg-4-comprimidos-blister-g-cimed/p'
+  
+'Farmacia': 'Pacheco'
+ 'nome': 'Paracetamol 32mg/Ml Genérico Germed 60ml'
+ 'preco': 'R$ 8.98'
+ 'Link': 'www.drogariaspacheco.com.br/paracetamol-32mgml-60ml-suspensao-oral-g-natures-plus/p'
+  
+'Farmacia': 'Pacheco'
+ 'nome': 'Paracetamol Gotas 100mg Genérico EMS 15ml'
+ 'preco': 'R$ 13.90'
+ 'Link': 'www.drogariaspacheco.com.br/paracetamol-gotas-100mg-generico-ems-15ml/p'
+  
+'Farmacia': 'Pacheco'
+ 'nome': 'Cimegripe 400mg Cimed  20 Cápsulas'
+ 'preco': 'R$ 8.94'
+ 'Link': 'www.drogariaspacheco.com.br/cimegripe-400mg-cimed-20-capsulas/p'
+  
+'Farmacia': 'Pacheco'
+ 'nome': 'Analgésico Tylenol Sinus 500mg 24 Comprimidos'
+ 'preco': 'R$ 15.96'
+ 'Link': 'www.drogariaspacheco.com.br/tylenol-sinus-500mg-johnson-24-comprimidos/p'
+  
+'Farmacia': 'Pacheco'
+ 'nome': 'Paracetamol + Fosfato de Codeína 500mg + 30mg Genérico Eurofarma 60ml Suspensão'
+ 'preco': 'R$ 12.54'
+ 'Link': 'www.drogariaspacheco.com.br/paracetamol-fosfato-de-codeina-500mg-30mg-generico-eurofarma-60ml-suspensao/p'
+  
+'Farmacia': 'Pacheco'
+ 'nome': 'Paracetamol 500mg + Fosfato de Codeína 30mg Genérico EMS 12 Comprimidos'
+ 'preco': 'R$ 11.05'
+ 'Link': 'www.drogariaspacheco.com.br/paracetamol-500mg--codeina-30mg-12-comprimidos-revestidos-ems/p'}
